@@ -1,0 +1,4 @@
+create table usuario
+{id int not null identity(1,1)
+nome varchar(30) not null
+}
