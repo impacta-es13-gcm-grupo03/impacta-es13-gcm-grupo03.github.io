@@ -1,0 +1,20 @@
+<diagram program="umletino" version="14.2"><zoom_level>10</zoom_level><element><id>Text</id><coordinates><x>340</x><y>540</y><w>100</w><h>80</h></coordinates><panel_attributes>customelement=
+// Text Elemnt
+// DB Symbol
+drawArc(0,0,width,height*2/5,0,180,true) fg=black bg=#222222 //Parameters (x, y, width, height, start, extent, open)
+drawArc(0,0,width,height*2/5,180,180,true) fg=black //Parameters (x, y, width, height, start, extent, open)
+drawRectangle(0,(height+0.5)/5,width,(height)*3/5-1) fg=#929292 bg=#222222 //Parameters (x, y, width, height)
+drawLine(0,height/5,0,height*4/5)fg=black //Parameters (x1, y1, x2, y2) 
+drawLine(width,height/5,width,height*4/5)fg=black //Parameters (x1, y1, x2, y2) 
+drawArc(0,height*1/5,width,height*2/5,180,180,true) fg=black //Parameters (x, y, width, height, start, extent, open)
+drawArc(0,height*2/5,width,height*2/5,180,180,true) fg=black //Parameters (x, y, width, height, start, extent, open)
+drawArc(0,height*3/5,width,height*2/5,180,180,true) fg=black bg=#222222 //Parameters (x, y, width, height, start, extent, open)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>310</x><y>30</y><w>140</w><h>40</h></coordinates><panel_attributes>&lt;&lt;Browser&gt;&gt;
+Chrome, IE</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>240</x><y>190</y><w>300</w><h>230</h></coordinates><panel_attributes>Servidor 
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>380</x><y>59</y><w>60</w><h>280</h></coordinates><panel_attributes>lt=-&gt;&gt;
+HTTP</panel_attributes><additional_attributes>10;10;10;260</additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>270</x><y>230</y><w>240</w><h>170</h></coordinates><panel_attributes>&lt;&lt;Servidor de Aplicação&gt;&gt;
+IIS</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>290</x><y>270</y><w>210</w><h>120</h></coordinates><panel_attributes>&lt;&lt;Aplicação Web&gt;&gt;
+C# MVC</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>330</x><y>320</y><w>140</w><h>40</h></coordinates><panel_attributes>&lt;&lt;Aplicação&gt;&gt;
+WebCob</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>380</x><y>59</y><w>60</w><h>280</h></coordinates><panel_attributes>lt=-&gt;&gt;
+HTTP</panel_attributes><additional_attributes>10;10;10;260</additional_attributes></element><element><id>Relation</id><coordinates><x>380</x><y>59</y><w>60</w><h>280</h></coordinates><panel_attributes>lt=-&gt;&gt;
+HTTP</panel_attributes><additional_attributes>10;10;10;260</additional_attributes></element><element><id>Relation</id><coordinates><x>380</x><y>350</y><w>70</w><h>210</h></coordinates><panel_attributes>lt=&lt;&lt;-&gt;&gt;
+TCP/IP</panel_attributes><additional_attributes>10;10;10;190</additional_attributes></element></diagram>

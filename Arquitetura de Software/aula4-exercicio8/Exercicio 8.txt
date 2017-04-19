@@ -1,0 +1,22 @@
+Casos de uso
+Descrição dos cenários
+Requisitos funcionais
+Requisitos não-funcionais (incluindo atributos de qualidade, tais como performance, segurança, confiabilidade etc.)
+Requisitos tecnológicos
+Ambiente de implantação
+Outras restrições
+
+Tem
+
+Casos de uso - Parcial
+Descrição dos cenários - Parcial
+Requisitos funcionais - Parcial
+Requisitos não-funcionais (incluindo atributos de qualidade, tais como performance, segurança, confiabilidade etc.)
+- Parcial 
+Outras restrições - Parcial
+
+
+Não tem 
+
+Ambiente de implantação
+

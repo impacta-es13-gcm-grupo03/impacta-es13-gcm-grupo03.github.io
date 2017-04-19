@@ -1,0 +1,26 @@
+<diagram program="umletino" version="14.2"><zoom_level>10</zoom_level><help_text>Space for diagram notes
+JSE
+</help_text><element><id>UMLDeployment</id><coordinates><x>80</x><y>45</y><w>320</w><h>250</h></coordinates><panel_attributes>&lt;&lt;computador cliente&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>80</x><y>395</y><w>370</w><h>370</h></coordinates><panel_attributes>&lt;&lt;computador servidor&gt;&gt;
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>100</x><y>90</y><w>280</w><h>200</h></coordinates><panel_attributes>&lt;&lt;SO&gt;&gt;
+WinXP ou superior
+Linux OpenSuse12.1 e superiores
+Ubuntu 12.0.4 ou superiores</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>120</x><y>180</y><w>230</w><h>90</h></coordinates><panel_attributes>&lt;&lt;web browser&gt;&gt;
+internet explorer 6.0 ou superior
+mozilla firefox 10 ou superior
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>90</x><y>440</y><w>330</w><h>300</h></coordinates><panel_attributes>&lt;&lt;SO&gt;&gt;
+Suse
+Redhat
+Sparc
+Windows
+Solaris</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>530</x><y>440</y><w>340</w><h>260</h></coordinates><panel_attributes>&lt;&lt;SO&gt;&gt;
+Redhat x86
+AIX
+Suse
+Windows
+Solaris</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>510</x><y>395</y><w>380</w><h>320</h></coordinates><panel_attributes>&lt;&lt;computador servidor&gt;&gt;</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>560</x><y>570</y><w>280</w><h>110</h></coordinates><panel_attributes>&lt;&lt;servidor de banco de dados&gt;&gt;
+IBMDB2 9.2 ou superior
+SGBD Oracle 11g ou superior
+MS SQL Server 2012 ou superior</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>120</x><y>620</y><w>250</w><h>70</h></coordinates><panel_attributes>&lt;&lt;aplicação java web&gt;&gt;
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>360</x><y>610</y><w>220</w><h>60</h></coordinates><panel_attributes></panel_attributes><additional_attributes>200;10;10;40</additional_attributes></element><element><id>Relation</id><coordinates><x>150</x><y>270</y><w>30</w><h>370</h></coordinates><panel_attributes></panel_attributes><additional_attributes>10;350;10;10</additional_attributes></element><element><id>UMLDeployment</id><coordinates><x>100</x><y>550</y><w>300</w><h>160</h></coordinates><panel_attributes>&lt;&lt;servidor de aplicação&gt;&gt;
+WebSphere 7.0 ou superior
+WebLogic 7.0 ou superior</panel_attributes><additional_attributes></additional_attributes></element></diagram>

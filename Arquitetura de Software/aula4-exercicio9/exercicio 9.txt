@@ -1,0 +1,4 @@
+Cenários:
+
+	*Recebimento de arquivo de cobranças
+	*Distribuição de cobranças aos cobradores
